@@ -1,0 +1,51 @@
+package smartsofts.api.todolist.web;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.RestController;
+
+import smartsofts.api.todolist.dtos.ToDoDTO;
+import smartsofts.api.todolist.service.IToDoMetier;
+
+@RestController
+@CrossOrigin("*")
+public class ToDoControllerImp implements IToDoController {
+	
+	private IToDoMetier iMetier;
+	
+	public ToDoControllerImp(IToDoMetier iMetier) {
+		this.iMetier = iMetier;
+	}
+
+	@Override
+	public ToDoDTO saveToDo(ToDoDTO toDoDTO) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ToDoDTO searchToDo(String mc) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<ToDoDTO> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ToDoDTO updateToDo(ToDoDTO toDoDTO) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteToDo(Long id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

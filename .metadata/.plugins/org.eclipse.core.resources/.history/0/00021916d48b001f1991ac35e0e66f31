@@ -1,0 +1,46 @@
+package smartsofts.api.todolist;
+
+import java.time.LocalDate;
+
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+
+import smartsofts.api.todolist.entities.StatusTodo;
+import smartsofts.api.todolist.entities.ToDo;
+import smartsofts.api.todolist.repository.ToDoRepository;
+
+@SpringBootApplication
+public class ToDoListApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ToDoListApplication.class, args);
+	}
+	
+	//data
+	@Bean
+	CommandLineRunner commandLineRunner(ToDoRepository toDoRepository) {
+		
+		return args -> {
+			ToDo todo1 = new ToDo(null, LocalDate.now(), "formation Fullstack", "6h30", true, LocalDate.now(), "6h", StatusTodo.Done, true, "Elkanoun Mohamed");
+			ToDo todo2= new ToDo(null, LocalDate.now(), "formation CyberSecurityG", "6h30", true, LocalDate.now(), "6h30", StatusTodo.Done, true, "Elkanoun Mohamed");
+			ToDo todo3 = new ToDo(null, LocalDate.now(), "TraitementsR", "1h30", true, LocalDate.now(), "1h30", StatusTodo.Done, true, "Elkanoun Mohamed");
+			ToDo todo4 = new ToDo(null, LocalDate.now(), "Ta3atG", "3h", true, LocalDate.now(), "3h", StatusTodo.Done, true, "Elkanoun Mohamed");
+			ToDo todo5 = new ToDo(null, LocalDate.now(), "NourritureG", "5h", true, LocalDate.now(), "5h", StatusTodo.Done, true, "Elkanoun Mohamed");
+			
+			toDoRepository.save(todo1);
+			toDoRepository.save(todo2);
+			toDoRepository.save(todo3);
+			toDoRepository.save(todo4);
+			toDoRepository.save(todo5);
+			
+			toDoRepository.findAll().forEach((toDo) -> {
+				System.out.println(toDo.getNomToDo());
+			});	
+			
+		};
+	}
+	
+
+}

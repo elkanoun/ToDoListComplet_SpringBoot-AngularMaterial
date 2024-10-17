@@ -1,0 +1,5 @@
+package smartsofts.api.todolist.mappers;
+
+public abstract class BaseMapper {
+
+}

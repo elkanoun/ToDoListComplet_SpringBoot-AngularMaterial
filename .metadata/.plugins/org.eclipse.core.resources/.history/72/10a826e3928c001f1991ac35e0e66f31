@@ -1,0 +1,12 @@
+package smartsofts.api.todolist.dtos;
+
+import lombok.Builder;
+import lombok.Data;
+
+@Data @Builder
+public class ValidationMessage {
+	
+	private String field;
+    private String message;
+
+}

@@ -1,0 +1,39 @@
+package smartsofts.api.todolist.service;
+
+import java.util.List;
+
+import smartsofts.api.todolist.dtos.ToDoDTO;
+
+public class ToDoMetierImp implements IToDoMetier {
+
+	@Override
+	public ToDoDTO saveToDo(ToDoDTO toDoDTO) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ToDoDTO searchToDo(String mc) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<ToDoDTO> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ToDoDTO updateToDo(ToDoDTO toDoDTO) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteToDo(Long id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

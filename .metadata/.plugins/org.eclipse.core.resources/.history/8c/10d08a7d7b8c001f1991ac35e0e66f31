@@ -1,0 +1,19 @@
+package smartsofts.api.todolist.web;
+
+import java.util.List;
+
+import smartsofts.api.todolist.dtos.ToDoDTO;
+
+public interface IToDoController {
+	
+	public ToDoDTO saveToDo(ToDoDTO toDoDTO);
+	
+	public ToDoDTO searchToDo(String mc);
+	
+	public List<ToDoDTO> findAll();
+	
+	public ToDoDTO updateToDo(ToDoDTO toDoDTO);
+	
+	public void deleteToDo(Long id);
+
+}

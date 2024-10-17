@@ -1,0 +1,13 @@
+package smartsofts.api.todolist.mappers;
+
+import smartsofts.api.todolist.dtos.ToDoDTO;
+import smartsofts.api.todolist.entities.ToDo;
+
+@Slf4j
+@Mapper(componentModel = "spring",
+        
+        unmappedTargetPolicy = ReportingPolicy.IGNORE,
+        config = BaseMapperConfiguration.class
+public interface IToDoMapper extends BaseMapper<ToDo, ToDoDTO> {
+
+}

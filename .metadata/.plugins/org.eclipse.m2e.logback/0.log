@@ -1,0 +1,1043 @@
+2024-10-15 15:47:56,652 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-15 15:47:56,896 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2024-10-15 15:57:53,296 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 15:57:53,565 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/3.3.4/spring-boot-starter-data-jdbc-3.3.4.pom
+2024-10-15 15:57:53,575 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/3.3.4/spring-boot-starter-data-jdbc-3.3.4.pom
+2024-10-15 15:57:53,720 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/3.3.4/spring-data-jdbc-3.3.4.pom
+2024-10-15 15:57:53,740 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/3.3.4/spring-data-jdbc-3.3.4.pom
+2024-10-15 15:57:53,779 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational-parent/3.3.4/spring-data-relational-parent-3.3.4.pom
+2024-10-15 15:57:53,787 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational-parent/3.3.4/spring-data-relational-parent-3.3.4.pom
+2024-10-15 15:57:53,840 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/3.3.4/spring-data-relational-3.3.4.pom
+2024-10-15 15:57:53,844 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/3.3.4/spring-data-relational-3.3.4.pom
+2024-10-15 15:57:53,988 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.3.4/spring-boot-starter-security-3.3.4.pom
+2024-10-15 15:57:54,000 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.3.4/spring-boot-starter-security-3.3.4.pom
+2024-10-15 15:57:54,167 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.3.3/spring-security-test-6.3.3.pom
+2024-10-15 15:57:54,171 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.3.3/spring-security-test-6.3.3.pom
+2024-10-15 15:57:54,325 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/3.3.4/spring-boot-starter-data-jdbc-3.3.4.jar
+2024-10-15 15:57:54,332 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/3.3.4/spring-boot-starter-data-jdbc-3.3.4.jar
+2024-10-15 15:57:54,368 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/3.3.4/spring-data-relational-3.3.4.jar
+2024-10-15 15:57:54,443 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/3.3.4/spring-data-jdbc-3.3.4.jar
+2024-10-15 15:57:54,453 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.3.4/spring-boot-starter-security-3.3.4.jar
+2024-10-15 15:57:54,457 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.3.3/spring-security-test-6.3.3.jar
+2024-10-15 15:57:54,460 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.3.4/spring-boot-starter-security-3.3.4.jar
+2024-10-15 15:57:54,511 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/3.3.4/spring-data-relational-3.3.4.jar
+2024-10-15 15:57:54,525 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.3.3/spring-security-test-6.3.3.jar
+2024-10-15 15:57:54,564 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/3.3.4/spring-data-jdbc-3.3.4.jar
+2024-10-15 15:57:55,257 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/main/java
+2024-10-15 15:57:55,259 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 15:57:55,262 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 15:57:55,266 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/test/java
+2024-10-15 15:57:55,267 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/test/resources
+2024-10-15 15:57:55,268 [Worker-13: Import Getting Started Content] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-21', falling back to workspace default
+2024-10-15 15:57:55,876 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-10-15 15:57:55,880 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-15 15:57:56,570 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 15:57:56,641 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/3.3.4/spring-boot-starter-data-jdbc-3.3.4-sources.jar
+2024-10-15 15:57:56,645 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jdbc/3.3.4/spring-boot-starter-data-jdbc-3.3.4-sources.jar
+2024-10-15 15:57:56,648 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-jdbc:3.3.4
+2024-10-15 15:57:56,762 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/3.3.4/spring-data-jdbc-3.3.4-sources.jar
+2024-10-15 15:57:56,845 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jdbc/3.3.4/spring-data-jdbc-3.3.4-sources.jar
+2024-10-15 15:57:56,849 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jdbc:3.3.4
+2024-10-15 15:57:57,053 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/3.3.4/spring-data-relational-3.3.4-sources.jar
+2024-10-15 15:57:57,256 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-relational/3.3.4/spring-data-relational-3.3.4-sources.jar
+2024-10-15 15:57:57,259 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-relational:3.3.4
+2024-10-15 15:57:57,278 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/main/java
+2024-10-15 15:57:57,279 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 15:57:57,281 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 15:57:57,282 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/test/java
+2024-10-15 15:57:57,283 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/test/resources
+2024-10-15 15:57:57,283 [Worker-13: Import Getting Started Content] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-21', falling back to workspace default
+2024-10-15 15:57:57,374 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.3.4/spring-boot-starter-security-3.3.4-sources.jar
+2024-10-15 15:57:57,379 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.3.4/spring-boot-starter-security-3.3.4-sources.jar
+2024-10-15 15:57:57,383 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:3.3.4
+2024-10-15 15:57:57,497 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.3.3/spring-security-test-6.3.3-sources.jar
+2024-10-15 15:57:57,540 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.3.3/spring-security-test-6.3.3-sources.jar
+2024-10-15 15:57:57,543 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-test:6.3.3
+2024-10-15 15:57:57,988 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2024-10-15 15:57:58,555 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 15:57:58,570 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 15:57:58,574 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 15:58:45,722 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 15:58:46,222 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 15:58:46,223 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 15:58:46,226 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 15:59:00,296 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-15 15:59:00,509 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 15:59:00,900 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/main/java
+2024-10-15 15:59:00,901 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 15:59:00,901 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 15:59:00,902 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/test/java
+2024-10-15 15:59:00,903 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/test/resources
+2024-10-15 15:59:00,903 [Worker-14: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-21', falling back to workspace default
+2024-10-15 15:59:01,145 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-10-15 15:59:01,365 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 15:59:01,376 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 15:59:01,380 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:05:12,428 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:05:12,445 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:05:12,449 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:05:20,150 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:05:20,156 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:05:20,162 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:05:42,795 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:05:42,798 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:05:42,802 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:05:54,383 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:05:54,384 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:05:54,387 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:06:10,807 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:06:10,808 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:06:10,813 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:09:58,061 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:09:58,064 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:09:58,068 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:10:14,792 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:10:14,811 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:10:14,817 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:11:12,751 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:11:12,756 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:11:12,760 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:11:51,581 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:11:51,583 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:11:51,585 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:12:01,300 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:12:01,318 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:12:01,322 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:12:33,635 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:12:33,640 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:12:33,644 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:12:39,363 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:12:39,370 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:12:39,372 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:13:40,099 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:13:40,127 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:13:40,131 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:14:18,917 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:14:18,925 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:14:18,928 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:14:25,001 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:14:25,015 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:14:25,022 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:14:35,973 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:14:35,984 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:14:35,988 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:15:22,272 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:15:22,282 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:15:22,286 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:16:01,391 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:16:01,394 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:16:01,396 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:16:37,459 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:16:37,469 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:16:37,472 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:17:00,539 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:17:00,546 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:17:00,549 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:17:26,260 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:17:26,282 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:17:26,285 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:17:39,772 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-15 16:17:40,027 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 16:17:40,505 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/main/java
+2024-10-15 16:17:40,506 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 16:17:40,506 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 16:17:40,506 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/test/java
+2024-10-15 16:17:40,507 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/test/resources
+2024-10-15 16:17:40,507 [Worker-21: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-21', falling back to workspace default
+2024-10-15 16:17:40,743 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-10-15 16:17:40,934 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 16:17:40,957 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:17:40,962 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:23:44,274 [Worker-32: Compute Mappings for project ToDoList] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 16:24:02,986 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 16:24:02,996 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:24:02,998 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:25:38,274 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 16:25:38,287 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:25:38,289 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:29:32,823 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 16:29:32,835 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:29:32,839 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:29:55,004 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 16:29:55,016 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:29:55,018 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:30:00,576 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 16:30:00,593 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:30:00,595 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:30:35,476 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 16:30:35,486 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:30:35,488 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:31:29,188 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 16:31:29,197 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:31:29,200 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:32:34,987 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 16:32:34,997 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:32:34,999 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:34:15,427 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 16:34:15,437 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:34:15,439 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:36:51,456 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:36:51,462 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:36:51,465 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:37:00,306 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:37:00,312 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:37:00,315 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:37:06,983 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-15 16:37:06,989 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:37:06,992 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:38:45,525 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 16:38:45,544 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:38:45,546 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:39:13,626 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 16:39:13,644 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:39:13,646 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 16:39:26,714 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 16:39:26,728 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 16:39:26,730 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:30:44,373 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 17:30:44,395 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:30:44,397 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:31:57,877 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 17:31:57,897 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:31:57,900 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:32:59,842 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 17:32:59,857 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:32:59,858 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:36:47,963 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 17:36:47,980 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:36:47,982 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:40:57,011 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 17:40:57,349 [Worker-48: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/$%7Borg.mapstruct.version%7D/mapstruct-$%7Borg.mapstruct.version%7D.pom
+2024-10-15 17:40:57,352 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct:jar:${org.mapstruct.version} is missing, no dependency information available
+2024-10-15 17:40:57,395 [Worker-48: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/$%7Borg.mapstruct.version%7D/mapstruct-processor-$%7Borg.mapstruct.version%7D.pom
+2024-10-15 17:40:57,397 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct-processor:jar:${org.mapstruct.version} is missing, no dependency information available
+2024-10-15 17:40:57,540 [Worker-48: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/$%7Borg.mapstruct.version%7D/mapstruct-$%7Borg.mapstruct.version%7D.jar
+2024-10-15 17:40:57,578 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/$%7Borg.mapstruct.version%7D/mapstruct-processor-$%7Borg.mapstruct.version%7D.jar
+2024-10-15 17:40:57,872 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:40:57,873 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:40:57,877 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:40:59,011 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/$%7Borg.mapstruct.version%7D/mapstruct-$%7Borg.mapstruct.version%7D-sources.jar
+2024-10-15 17:40:59,013 [Worker-51: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.mapstruct:mapstruct:${org.mapstruct.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mapstruct:mapstruct:jar:sources:${org.mapstruct.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-15 17:40:59,485 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/$%7Borg.mapstruct.version%7D/mapstruct-processor-$%7Borg.mapstruct.version%7D-sources.jar
+2024-10-15 17:40:59,488 [Worker-51: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.mapstruct:mapstruct-processor:${org.mapstruct.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mapstruct:mapstruct-processor:jar:sources:${org.mapstruct.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-15 17:41:04,797 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-jdbc:3.3.4
+2024-10-15 17:41:04,800 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-jdbc:3.3.4
+2024-10-15 17:41:04,802 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.zaxxer:HikariCP:5.1.0
+2024-10-15 17:41:04,805 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:6.1.13
+2024-10-15 17:41:04,807 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jdbc:3.3.4
+2024-10-15 17:41:04,810 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-relational:3.3.4
+2024-10-15 17:41:04,813 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-commons:3.3.4
+2024-10-15 17:41:04,815 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:6.1.13
+2024-10-15 17:41:04,817 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:6.1.13
+2024-10-15 17:41:04,820 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:6.1.13
+2024-10-15 17:41:04,822 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:2.0.16
+2024-10-15 17:41:04,824 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-jpa:3.3.4
+2024-10-15 17:41:04,826 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-aop:3.3.4
+2024-10-15 17:41:04,829 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:6.1.13
+2024-10-15 17:41:04,830 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjweaver:1.9.22.1
+2024-10-15 17:41:04,833 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.orm:hibernate-core:6.5.3.Final
+2024-10-15 17:41:04,835 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.persistence:jakarta.persistence-api:3.1.0
+2024-10-15 17:41:04,837 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.transaction:jakarta.transaction-api:2.0.1
+2024-10-15 17:41:04,839 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.5.3.Final
+2024-10-15 17:41:04,841 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.common:hibernate-commons-annotations:6.0.6.Final
+2024-10-15 17:41:04,844 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.smallrye:jandex:3.1.2
+2024-10-15 17:41:04,846 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml:classmate:1.7.0
+2024-10-15 17:41:04,848 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.14.19
+2024-10-15 17:41:04,850 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-runtime:4.0.5
+2024-10-15 17:41:04,852 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-core:4.0.5
+2024-10-15 17:41:04,854 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.angus:angus-activation:2.0.2
+2024-10-15 17:41:04,857 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:txw2:4.0.5
+2024-10-15 17:41:04,859 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.istack:istack-commons-runtime:4.1.2
+2024-10-15 17:41:04,861 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.inject:jakarta.inject-api:2.0.1
+2024-10-15 17:41:04,863 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:antlr4-runtime:4.13.0
+2024-10-15 17:41:04,866 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jpa:3.3.4
+2024-10-15 17:41:04,868 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-orm:6.1.13
+2024-10-15 17:41:04,870 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.annotation:jakarta.annotation-api:2.1.1
+2024-10-15 17:41:04,872 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:6.1.13
+2024-10-15 17:41:04,875 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-web:3.3.4
+2024-10-15 17:41:04,877 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter:3.3.4
+2024-10-15 17:41:04,879 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-logging:3.3.4
+2024-10-15 17:41:04,881 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-classic:1.5.8
+2024-10-15 17:41:04,883 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-core:1.5.8
+2024-10-15 17:41:04,885 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-to-slf4j:2.23.1
+2024-10-15 17:41:04,887 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-api:2.23.1
+2024-10-15 17:41:04,889 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jul-to-slf4j:2.0.16
+2024-10-15 17:41:04,892 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.yaml:snakeyaml:2.2
+2024-10-15 17:41:04,894 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-json:3.3.4
+2024-10-15 17:41:04,896 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.17.2
+2024-10-15 17:41:04,899 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.17.2
+2024-10-15 17:41:04,901 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.17.2
+2024-10-15 17:41:04,903 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.17.2
+2024-10-15 17:41:04,905 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.17.2
+2024-10-15 17:41:04,908 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-parameter-names:2.17.2
+2024-10-15 17:41:04,910 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-tomcat:3.3.4
+2024-10-15 17:41:04,912 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-core:10.1.30
+2024-10-15 17:41:04,915 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-el:10.1.30
+2024-10-15 17:41:04,917 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-websocket:10.1.30
+2024-10-15 17:41:04,919 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:6.1.13
+2024-10-15 17:41:04,921 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-observation:1.13.4
+2024-10-15 17:41:04,924 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-commons:1.13.4
+2024-10-15 17:41:04,926 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:6.1.13
+2024-10-15 17:41:04,928 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:6.1.13
+2024-10-15 17:41:04,931 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:3.3.4
+2024-10-15 17:41:04,933 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot:3.3.4
+2024-10-15 17:41:04,935 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-autoconfigure:3.3.4
+2024-10-15 17:41:04,937 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.mysql:mysql-connector-j:8.3.0
+2024-10-15 17:41:04,939 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.34
+2024-10-15 17:41:04,942 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-test:3.3.4
+2024-10-15 17:41:04,944 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test:3.3.4
+2024-10-15 17:41:04,946 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test-autoconfigure:3.3.4
+2024-10-15 17:41:04,948 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jayway.jsonpath:json-path:2.9.0
+2024-10-15 17:41:04,950 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.xml.bind:jakarta.xml.bind-api:4.0.2
+2024-10-15 17:41:04,952 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.activation:jakarta.activation-api:2.1.3
+2024-10-15 17:41:04,954 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.minidev:json-smart:2.5.1
+2024-10-15 17:41:04,956 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.minidev:accessors-smart:2.5.1
+2024-10-15 17:41:04,959 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ow2.asm:asm:9.6
+2024-10-15 17:41:04,960 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.assertj:assertj-core:3.25.3
+2024-10-15 17:41:04,962 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.awaitility:awaitility:4.2.2
+2024-10-15 17:41:04,964 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest:2.2
+2024-10-15 17:41:04,966 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter:5.10.3
+2024-10-15 17:41:04,968 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-api:5.10.3
+2024-10-15 17:41:04,971 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.opentest4j:opentest4j:1.3.0
+2024-10-15 17:41:04,973 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-commons:1.10.3
+2024-10-15 17:41:04,974 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apiguardian:apiguardian-api:1.1.2
+2024-10-15 17:41:04,977 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-params:5.10.3
+2024-10-15 17:41:04,979 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-engine:5.10.3
+2024-10-15 17:41:04,981 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-engine:1.10.3
+2024-10-15 17:41:04,983 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mockito:mockito-core:5.11.0
+2024-10-15 17:41:04,985 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy-agent:1.14.19
+2024-10-15 17:41:04,987 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.objenesis:objenesis:3.3
+2024-10-15 17:41:04,989 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mockito:mockito-junit-jupiter:5.11.0
+2024-10-15 17:41:04,991 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.skyscreamer:jsonassert:1.5.3
+2024-10-15 17:41:04,994 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.vaadin.external.google:android-json:0.0.20131108.vaadin1
+2024-10-15 17:41:04,996 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:6.1.13
+2024-10-15 17:41:04,998 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:6.1.13
+2024-10-15 17:41:05,000 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:6.1.13
+2024-10-15 17:41:05,002 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xmlunit:xmlunit-core:2.9.1
+2024-10-15 17:41:05,004 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-test:6.3.3
+2024-10-15 17:41:05,006 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:6.3.3
+2024-10-15 17:41:05,008 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:6.3.3
+2024-10-15 17:41:05,010 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:6.3.3
+2024-10-15 17:41:05,324 [Worker-54: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/$%7Borg.mapstruct.version%7D/mapstruct-$%7Borg.mapstruct.version%7D-javadoc.jar
+2024-10-15 17:41:05,328 [Worker-54: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.mapstruct:mapstruct:${org.mapstruct.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mapstruct:mapstruct:jar:javadoc:${org.mapstruct.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-15 17:41:05,560 [Worker-54: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/$%7Borg.mapstruct.version%7D/mapstruct-processor-$%7Borg.mapstruct.version%7D-javadoc.jar
+2024-10-15 17:41:05,563 [Worker-54: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.mapstruct:mapstruct-processor:${org.mapstruct.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mapstruct:mapstruct-processor:jar:javadoc:${org.mapstruct.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-15 17:41:17,753 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-15 17:41:17,960 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 17:41:18,238 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/$%7Borg.mapstruct.version%7D/mapstruct-$%7Borg.mapstruct.version%7D.pom
+2024-10-15 17:41:18,239 [Worker-54: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct:jar:${org.mapstruct.version} is missing, no dependency information available
+2024-10-15 17:41:18,274 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/$%7Borg.mapstruct.version%7D/mapstruct-processor-$%7Borg.mapstruct.version%7D.pom
+2024-10-15 17:41:18,275 [Worker-54: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct-processor:jar:${org.mapstruct.version} is missing, no dependency information available
+2024-10-15 17:41:18,398 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/$%7Borg.mapstruct.version%7D/mapstruct-$%7Borg.mapstruct.version%7D.jar
+2024-10-15 17:41:18,434 [BasicRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/$%7Borg.mapstruct.version%7D/mapstruct-processor-$%7Borg.mapstruct.version%7D.jar
+2024-10-15 17:41:18,622 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/main/java
+2024-10-15 17:41:18,622 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 17:41:18,623 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 17:41:18,623 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/test/java
+2024-10-15 17:41:18,623 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/test/resources
+2024-10-15 17:41:18,897 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-10-15 17:41:19,069 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 17:41:19,084 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:41:19,087 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:44:12,811 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:44:12,812 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:44:12,814 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:44:37,391 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:44:37,392 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:44:37,394 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:45:13,736 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:45:13,737 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:45:13,739 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:45:46,190 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:45:46,191 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:45:46,193 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:45:54,017 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:45:54,017 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:45:54,019 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:47:49,227 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:47:49,228 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:47:49,230 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:48:23,446 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:48:23,448 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:48:23,453 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:48:35,236 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:48:35,237 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:48:35,239 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:49:25,166 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:49:25,169 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:49:25,175 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:49:34,409 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:49:34,410 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:49:34,412 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:50:50,241 [Worker-64: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 17:50:50,510 [Worker-64: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/org.mapstruct.version/mapstruct-org.mapstruct.version.pom
+2024-10-15 17:50:50,511 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct:jar:org.mapstruct.version is missing, no dependency information available
+2024-10-15 17:50:50,544 [Worker-64: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/org.mapstruct.version/mapstruct-processor-org.mapstruct.version.pom
+2024-10-15 17:50:50,545 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct-processor:jar:org.mapstruct.version is missing, no dependency information available
+2024-10-15 17:50:50,662 [Worker-64: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/org.mapstruct.version/mapstruct-org.mapstruct.version.jar
+2024-10-15 17:50:50,695 [BasicRepositoryConnector-repo.maven.apache.org-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/org.mapstruct.version/mapstruct-processor-org.mapstruct.version.jar
+2024-10-15 17:50:50,943 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:50:50,943 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:50:50,946 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:50:52,095 [Worker-62: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/org.mapstruct.version/mapstruct-org.mapstruct.version-sources.jar
+2024-10-15 17:50:52,099 [Worker-62: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.mapstruct:mapstruct:org.mapstruct.version
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mapstruct:mapstruct:jar:sources:org.mapstruct.version
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-15 17:50:52,385 [Worker-62: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/org.mapstruct.version/mapstruct-processor-org.mapstruct.version-sources.jar
+2024-10-15 17:50:52,387 [Worker-62: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.mapstruct:mapstruct-processor:org.mapstruct.version
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mapstruct:mapstruct-processor:jar:sources:org.mapstruct.version
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-15 17:51:08,791 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-15 17:51:08,994 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 17:51:09,254 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/org.mapstruct.version/mapstruct-org.mapstruct.version.pom
+2024-10-15 17:51:09,255 [Worker-64: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct:jar:org.mapstruct.version is missing, no dependency information available
+2024-10-15 17:51:09,290 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/org.mapstruct.version/mapstruct-processor-org.mapstruct.version.pom
+2024-10-15 17:51:09,291 [Worker-64: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct-processor:jar:org.mapstruct.version is missing, no dependency information available
+2024-10-15 17:51:09,412 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/org.mapstruct.version/mapstruct-org.mapstruct.version.jar
+2024-10-15 17:51:09,446 [BasicRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/org.mapstruct.version/mapstruct-processor-org.mapstruct.version.jar
+2024-10-15 17:51:09,620 [Worker-64: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/main/java
+2024-10-15 17:51:09,621 [Worker-64: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 17:51:09,621 [Worker-64: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 17:51:09,621 [Worker-64: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/test/java
+2024-10-15 17:51:09,622 [Worker-64: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/test/resources
+2024-10-15 17:51:09,892 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-10-15 17:51:10,111 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 17:51:10,128 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:51:10,131 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:51:11,024 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct/org.mapstruct.version/mapstruct-org.mapstruct.version-javadoc.jar
+2024-10-15 17:51:11,029 [Worker-59: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.mapstruct:mapstruct:org.mapstruct.version
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mapstruct:mapstruct:jar:javadoc:org.mapstruct.version
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-15 17:51:11,329 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mapstruct/mapstruct-processor/org.mapstruct.version/mapstruct-processor-org.mapstruct.version-javadoc.jar
+2024-10-15 17:51:11,334 [Worker-59: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.mapstruct:mapstruct-processor:org.mapstruct.version
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mapstruct:mapstruct-processor:jar:javadoc:org.mapstruct.version
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-15 17:51:21,321 [Worker-67: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 17:51:21,468 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct:jar:org.mapstruct.version is missing, no dependency information available
+2024-10-15 17:51:21,469 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mapstruct:mapstruct-processor:jar:org.mapstruct.version is missing, no dependency information available
+2024-10-15 17:51:21,740 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:51:21,741 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:51:21,744 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:55:01,452 [Worker-65: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 17:55:01,845 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:55:01,845 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:55:01,848 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:55:03,100 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 17:55:03,120 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:55:03,122 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:57:06,851 [Worker-65: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 17:57:07,251 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:57:07,252 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:57:07,255 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:58:32,544 [Worker-70: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 17:58:32,954 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:58:32,955 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:58:32,957 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:58:32,964 [Worker-70: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 17:58:32,964 [Worker-70: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 17:58:32,966 [Worker-70: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 17:59:05,114 [Worker-71: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 17:59:05,499 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:59:05,500 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:59:05,503 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 17:59:05,504 [Worker-71: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 17:59:05,506 [Worker-71: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 17:59:05,506 [Worker-71: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 17:59:41,347 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 17:59:41,364 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 17:59:41,366 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:00:54,091 [Worker-73: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/4.0.0/maven-compiler-plugin-4.0.0.jar
+2024-10-15 18:00:54,296 [Worker-73: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/4.0.0/maven-compiler-plugin-4.0.0.pom
+2024-10-15 18:00:54,303 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:00:54,306 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:00:54,309 [Worker-73: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 18:00:54,625 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:00:54,630 [Worker-72: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-15 18:00:54,829 [Worker-72: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:00:54,831 [Worker-72: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:00:54,833 [Worker-72: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 18:00:55,166 [Worker-72: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:00:55,168 [Worker-72: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-10-15 18:00:55,550 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:02:54,169 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:02:54,171 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:02:54,173 [Worker-72: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 18:02:54,394 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:02:54,510 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:02:54,514 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-15 18:02:54,722 [Worker-73: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:02:54,726 [Worker-73: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:02:54,727 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 18:02:54,935 [Worker-73: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:02:55,047 [Worker-73: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:02:55,048 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-10-15 18:02:55,339 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:03:21,508 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-15 18:03:21,804 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/4.0.0/maven-compiler-plugin-4.0.0.jar
+2024-10-15 18:03:21,844 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/4.0.0/maven-compiler-plugin-4.0.0.pom
+2024-10-15 18:03:21,845 [Worker-73: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:03:21,848 [Worker-73: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:03:21,849 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 18:03:22,035 [Worker-73: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:03:22,146 [Worker-73: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:03:22,147 [Worker-73: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-10-15 18:03:22,491 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:4.0.0 is missing, no dependency information available
+2024-10-15 18:05:31,220 [Worker-75: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 18:05:31,413 [Worker-75: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:05:31,413 [Worker-75: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:05:31,413 [Worker-75: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:05:31,656 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:05:31,672 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:05:31,675 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:05:31,676 [Worker-75: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:05:31,677 [Worker-75: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:05:31,677 [Worker-75: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:05:51,455 [Worker-74: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-15 18:05:51,657 [Worker-74: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 18:05:52,013 [Worker-74: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/main/java
+2024-10-15 18:05:52,013 [Worker-74: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 18:05:52,014 [Worker-74: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 18:05:52,014 [Worker-74: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/test/java
+2024-10-15 18:05:52,014 [Worker-74: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/test/resources
+2024-10-15 18:05:52,286 [Worker-74: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-10-15 18:05:52,664 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:05:52,691 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:05:52,695 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:05:52,697 [Worker-71: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:05:52,698 [Worker-71: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:05:52,698 [Worker-71: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:07:54,601 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:07:54,616 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:07:54,619 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:09:54,067 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:09:54,079 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:09:54,080 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:10:15,185 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:10:15,194 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:10:15,195 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:10:53,043 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:10:53,053 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:10:53,054 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:11:16,505 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:11:16,515 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:11:16,517 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:11:26,172 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:11:26,182 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:11:26,184 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:14:26,917 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:14:26,927 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:14:26,930 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:14:38,649 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:14:38,661 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:14:38,663 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:16:18,783 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:16:18,799 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:16:18,801 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:18:55,644 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:18:55,662 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:18:55,664 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:19:51,110 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:19:51,137 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:19:51,139 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:20:57,010 [Worker-82: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 18:20:57,255 [Worker-82: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.3.4/spring-boot-starter-validation-3.3.4.pom
+2024-10-15 18:20:57,268 [Worker-82: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.3.4/spring-boot-starter-validation-3.3.4.pom
+2024-10-15 18:20:57,424 [Worker-82: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.3.4/spring-boot-starter-validation-3.3.4.jar
+2024-10-15 18:20:57,431 [Worker-82: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.3.4/spring-boot-starter-validation-3.3.4.jar
+2024-10-15 18:20:57,643 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:20:57,644 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:20:57,647 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:20:57,648 [Worker-82: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:20:57,649 [Worker-82: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:20:57,649 [Worker-82: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:20:58,690 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.3.4/spring-boot-starter-validation-3.3.4-sources.jar
+2024-10-15 18:20:58,700 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.3.4/spring-boot-starter-validation-3.3.4-sources.jar
+2024-10-15 18:20:58,708 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-validation:3.3.4
+2024-10-15 18:20:59,207 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:20:59,231 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:20:59,234 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:20:59,235 [Worker-72: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:20:59,237 [Worker-72: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:20:59,237 [Worker-72: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:21:06,353 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-15 18:21:06,538 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: smartsofts.api:ToDoList:0.0.1-SNAPSHOT @ C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\pom.xml.
+2024-10-15 18:21:06,875 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/main/java
+2024-10-15 18:21:06,875 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 18:21:06,876 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/main/resources
+2024-10-15 18:21:06,876 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ToDoList/src/test/java
+2024-10-15 18:21:06,876 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ToDoList/src/test/resources
+2024-10-15 18:21:07,130 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-10-15 18:21:07,882 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:21:07,897 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:21:07,899 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:21:07,901 [Worker-81: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:21:07,901 [Worker-81: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:21:07,902 [Worker-81: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 18:28:15,695 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:28:15,712 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:28:15,713 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:28:45,294 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:28:45,303 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:28:45,305 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:31:36,417 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:31:36,435 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:31:36,437 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:36:38,093 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:36:38,109 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:36:38,111 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:37:35,652 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:37:35,662 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:37:35,664 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:38:05,420 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:38:05,432 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:38:05,434 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 18:41:05,690 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 18:41:05,700 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 18:41:05,703 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 19:04:16,055 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 19:04:16,074 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 19:04:16,077 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 19:04:16,079 [Worker-99: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 19:04:16,080 [Worker-99: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 19:04:16,080 [Worker-99: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-15 19:11:33,417 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 19:11:33,428 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 19:11:33,430 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-15 19:16:03,148 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-15 19:16:03,159 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-15 19:16:03,161 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-16 16:07:02,421 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-16 16:07:03,081 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2024-10-16 16:24:27,850 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 16:24:27,886 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 16:24:27,890 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-16 16:24:27,910 [Worker-15: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-16 16:24:27,911 [Worker-15: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-16 16:24:27,912 [Worker-15: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-16 16:32:22,130 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 16:32:22,146 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 16:32:22,149 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-16 16:34:09,684 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 16:34:09,695 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 16:34:09,698 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-16 16:35:34,024 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 16:35:34,068 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 16:35:34,071 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-16 17:40:36,486 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 17:40:36,508 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 17:40:36,511 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-16 17:42:14,242 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 17:42:14,270 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 17:42:14,274 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-16 17:43:50,363 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 17:43:50,378 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 17:43:50,382 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-16 17:45:05,130 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 17:45:05,175 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 17:45:05,178 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-16 17:49:24,988 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 17:49:25,006 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 17:49:25,008 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-16 17:49:51,097 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 17:49:51,133 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 17:49:51,136 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-16 17:52:47,116 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 17:52:47,144 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 17:52:47,147 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-16 18:02:15,803 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 18:02:15,815 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 18:02:15,819 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-16 18:02:34,566 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-16 18:02:34,603 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-16 18:02:34,605 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 11:54:08,114 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 11:54:08,139 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 11:54:08,142 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:21:10,090 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:21:10,116 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:21:10,121 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:25:17,088 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:25:17,106 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:25:17,109 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:26:51,694 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:26:51,720 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:26:51,722 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:28:03,702 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:28:03,714 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:28:03,717 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:28:10,970 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:28:10,982 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:28:10,984 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:28:48,245 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:28:48,258 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:28:48,261 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:29:44,630 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:29:44,656 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:29:44,671 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:30:20,968 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:30:20,978 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:30:20,980 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:32:28,848 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:32:28,857 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:32:28,859 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:37:16,166 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:37:16,176 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:37:16,179 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:39:45,444 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:39:45,455 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:39:45,458 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:42:22,258 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:42:22,268 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:42:22,270 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:45:00,038 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:45:00,066 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:45:00,069 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:45:18,937 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:45:18,952 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:45:18,954 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:46:45,801 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:46:45,811 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:46:45,814 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:47:57,522 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:47:57,532 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:47:57,534 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:58:50,081 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:58:50,101 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:58:50,103 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:59:07,115 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:59:07,126 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:59:07,128 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:59:14,378 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:59:14,388 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:59:14,391 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:59:46,494 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:59:46,507 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:59:46,508 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 12:59:56,873 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 12:59:56,883 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 12:59:56,885 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:00:20,167 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:00:20,177 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:00:20,180 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:00:33,898 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:00:33,908 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:00:33,911 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:09:54,316 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:09:54,335 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:09:54,338 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:14:13,385 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:14:13,397 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:14:13,399 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:24:30,644 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:24:30,655 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:24:30,657 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:25:16,547 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:25:16,555 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:25:16,556 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:28:20,720 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:28:20,729 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:28:20,731 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:30:24,888 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:30:24,909 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:30:24,911 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:32:19,579 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:32:19,591 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:32:19,593 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:33:20,760 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:33:20,770 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:33:20,772 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:33:20,774 [Worker-64: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-17 13:33:20,775 [Worker-64: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-17 13:33:20,776 [Worker-64: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-17 13:33:50,336 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:33:50,352 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:33:50,354 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:34:49,842 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:34:49,864 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:34:49,866 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:36:13,002 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:36:13,011 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:36:13,013 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:40:42,774 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:40:42,782 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:40:42,784 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:42:00,252 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:42:00,262 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:42:00,264 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:42:59,108 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:42:59,134 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:42:59,150 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:43:04,166 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:43:04,174 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:43:04,176 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:44:47,989 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:44:47,999 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:44:48,001 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 13:45:05,435 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 13:45:05,443 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 13:45:05,444 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:00:25,974 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:00:25,994 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:00:25,996 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:00:31,910 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:00:31,924 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:00:31,926 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:02:00,585 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:02:00,594 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:02:00,597 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:02:15,696 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:02:15,708 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:02:15,710 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:17:52,169 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:17:52,185 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:17:52,188 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:18:53,396 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:18:53,429 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:18:53,432 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:19:57,771 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:19:57,794 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:19:57,796 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:19:57,799 [Worker-77: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-17 15:19:57,799 [Worker-77: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-17 15:19:57,800 [Worker-77: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+2024-10-17 15:20:48,093 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:20:48,103 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:20:48,106 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:23:43,007 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:23:43,019 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:23:43,022 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:23:59,093 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:23:59,103 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:23:59,105 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:31:28,339 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:31:28,359 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:31:28,362 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:34:35,178 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:34:35,199 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:34:35,201 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:36:00,695 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:36:00,706 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:36:00,708 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:36:54,975 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:36:54,998 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:36:55,001 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:41:42,434 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:41:42,464 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:41:42,466 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:44:11,525 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:44:11,543 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:44:11,545 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:44:17,484 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:44:17,522 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:44:17,525 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:48:18,534 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:48:18,554 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:48:18,556 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:49:43,656 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:49:43,666 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:49:43,668 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:50:07,323 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:50:07,333 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:50:07,335 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:50:17,152 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:50:17,187 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:50:17,189 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:51:09,546 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:51:09,556 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:51:09,557 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:52:13,262 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:52:13,273 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:52:13,277 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:53:42,914 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:53:42,924 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:53:42,926 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:55:22,696 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:55:22,721 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:55:22,724 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:57:57,006 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:57:57,021 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:57:57,024 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 15:59:40,914 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 15:59:40,924 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 15:59:40,926 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:00:05,520 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:00:05,533 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:00:05,535 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:03:49,413 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:03:49,435 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:03:49,437 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:03:55,246 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:03:55,294 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:03:55,296 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:06:19,538 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:06:19,575 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:06:19,577 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:06:26,569 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:06:26,585 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:06:26,587 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:07:04,085 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:07:04,122 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:07:04,144 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:07:48,822 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:07:48,834 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:07:48,836 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:13:10,436 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:13:10,470 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:13:10,485 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:14:14,801 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:14:14,812 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:14:14,814 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:14:21,981 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:14:21,991 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:14:21,993 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:16:57,362 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:16:57,376 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:16:57,378 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:22:57,485 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:22:57,527 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:22:57,529 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:23:34,018 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:23:34,063 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:23:34,077 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:28:32,793 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:28:32,813 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:28:32,816 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-10-17 16:28:52,240 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-10-17 16:28:52,249 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-17 16:28:52,251 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources

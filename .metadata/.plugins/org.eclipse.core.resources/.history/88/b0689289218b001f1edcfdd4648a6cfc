@@ -1,0 +1,29 @@
+package smartsofts.api.todolist;
+
+import java.time.LocalDate;
+
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+
+import smartsofts.api.todolist.entities.StatusTodo;
+import smartsofts.api.todolist.entities.ToDo;
+import smartsofts.api.todolist.repository.ToDoRepository;
+
+@SpringBootApplication
+public class ToDoListApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ToDoListApplication.class, args);
+	}
+	
+	//data
+	@Bean
+	CommandLineRunner start(ToDoRepository toDoRepository) {
+		ToDo todo1 = new ToDo(null, new LocalDate(15,10,2024), "formation Fullstack", "10h", true, new LocalDate(15,10,2024), "9h", StatusTodo.Done, true, "Elkanoun Mohamed");
+		return toDoRepository
+	}
+	
+
+}

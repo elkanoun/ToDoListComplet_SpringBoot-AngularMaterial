@@ -1,0 +1,35 @@
+# Configuration for Production Environment
+server:
+  port: 8082
+
+app:
+  upload:
+    directory:  # Chemin du dossier pour chargement des documents.
+    extensions: image/jpeg,image/png,image/jpg,application/pdf
+  fondation:
+    ws:
+      adherent: http://127.0.0.1:8088/api/adherent
+spring:
+  datasource:
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:mysql://localhost:3306/todolist;useUnicode=true;characterEncoding=UTF-8
+    username: root
+    password:
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        implicit-strategy: org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyJpaImpl
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+  devtools:
+    add-properties: false
+
+logging:
+  level:
+    root: error
+    web: error
+    sql: error
