@@ -8506,3 +8506,210 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-10-17 19:23:42.245
+!MESSAGE [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-10-17 19:23:42.246
+!MESSAGE [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-10-17 19:23:42.246
+!MESSAGE [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-17 19:23:42.398
+!MESSAGE Classpath changed for project: ToDoList
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-17 19:23:42.526
+!MESSAGE Classpath changed for project: ToDoList
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-10-17 19:23:43.920
+!MESSAGE [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-10-17 19:23:43.921
+!MESSAGE [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-10-17 19:23:43.921
+!MESSAGE [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-17 19:24:18.281
+!MESSAGE Classpath changed for project: ToDoList
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-10-17 19:24:19.240
+!MESSAGE [1;33mParameter '[0;1;33msource[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-10-17 19:24:19.240
+!MESSAGE [1;33mParameter '[0;1;33mannotationProcessorPaths[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-10-17 19:24:19.241
+!MESSAGE [1;33mParameter '[0;1;33mtarget[0;1;33m' is unknown for plugin '[0;1;33mspring-boot-maven-plugin[0;1;33m:[0;1;33m3.3.4[0;1;33m:[0;1;33mrepackage[0;1;33m ([0;1;33mrepackage[0;1;33m)[0;1;33m'[m
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-17 19:28:16.707
+!MESSAGE Failed to fetch type data for element witn key: Ljava/lang/String;
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-10-17 19:28:16.708
+!MESSAGE Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+!STACK 0
+java.lang.Exception: Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+	at org.springframework.tooling.jdt.ls.commons.resources.ResourceUtils.getJavaProject(ResourceUtils.java:60)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.findElement(JavaData.java:79)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.typeData(JavaData.java:67)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$16(STS4LanguageClientImpl.java:511)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-17 19:28:16.738
+!MESSAGE Failed to fetch type data for element witn key: Ljava/util/List;
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-10-17 19:28:16.738
+!MESSAGE Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+!STACK 0
+java.lang.Exception: Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+	at org.springframework.tooling.jdt.ls.commons.resources.ResourceUtils.getJavaProject(ResourceUtils.java:60)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.findElement(JavaData.java:79)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.typeData(JavaData.java:67)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$16(STS4LanguageClientImpl.java:511)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-17 19:28:16.740
+!MESSAGE Failed to fetch type data for element witn key: Lorg/springframework/util/unit/DataSize;
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-10-17 19:28:16.740
+!MESSAGE Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+!STACK 0
+java.lang.Exception: Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+	at org.springframework.tooling.jdt.ls.commons.resources.ResourceUtils.getJavaProject(ResourceUtils.java:60)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.findElement(JavaData.java:79)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.typeData(JavaData.java:67)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$16(STS4LanguageClientImpl.java:511)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-17 19:28:21.779
+!MESSAGE Failed to fetch type data for element witn key: Ljava/util/Map;
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-10-17 19:28:21.779
+!MESSAGE Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+!STACK 0
+java.lang.Exception: Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+	at org.springframework.tooling.jdt.ls.commons.resources.ResourceUtils.getJavaProject(ResourceUtils.java:60)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.findElement(JavaData.java:79)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.typeData(JavaData.java:67)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$16(STS4LanguageClientImpl.java:511)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-17 19:32:28.755
+!MESSAGE Failed to fetch type data for element witn key: Ljava/lang/String;
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-10-17 19:32:28.755
+!MESSAGE Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+!STACK 0
+java.lang.Exception: Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+	at org.springframework.tooling.jdt.ls.commons.resources.ResourceUtils.getJavaProject(ResourceUtils.java:60)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.findElement(JavaData.java:79)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.typeData(JavaData.java:67)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$16(STS4LanguageClientImpl.java:511)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-17 19:32:28.756
+!MESSAGE Failed to fetch type data for element witn key: Ljava/util/List;
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-10-17 19:32:28.757
+!MESSAGE Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+!STACK 0
+java.lang.Exception: Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+	at org.springframework.tooling.jdt.ls.commons.resources.ResourceUtils.getJavaProject(ResourceUtils.java:60)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.findElement(JavaData.java:79)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.typeData(JavaData.java:67)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$16(STS4LanguageClientImpl.java:511)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-17 19:32:28.758
+!MESSAGE Failed to fetch type data for element witn key: Lorg/springframework/util/unit/DataSize;
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-10-17 19:32:28.758
+!MESSAGE Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+!STACK 0
+java.lang.Exception: Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+	at org.springframework.tooling.jdt.ls.commons.resources.ResourceUtils.getJavaProject(ResourceUtils.java:60)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.findElement(JavaData.java:79)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.typeData(JavaData.java:67)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$16(STS4LanguageClientImpl.java:511)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-17 19:32:39.697
+!MESSAGE Failed to fetch type data for element witn key: Ljava/lang/String;
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-10-17 19:32:39.697
+!MESSAGE Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+!STACK 0
+java.lang.Exception: Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+	at org.springframework.tooling.jdt.ls.commons.resources.ResourceUtils.getJavaProject(ResourceUtils.java:60)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.findElement(JavaData.java:79)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.typeData(JavaData.java:67)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$16(STS4LanguageClientImpl.java:511)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-17 19:32:39.698
+!MESSAGE Failed to fetch type data for element witn key: Ljava/util/Map;
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-10-17 19:32:39.699
+!MESSAGE Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+!STACK 0
+java.lang.Exception: Resolve classpath: unable to resolve a Java project from : file:/C:/Mont%C3%A9eCompG_2024/ProjetsG_FullG/15-10-2024_Projet%20ToDoList%20petit!/BackFront_ToDoListPetit/ToDoList
+	at org.springframework.tooling.jdt.ls.commons.resources.ResourceUtils.getJavaProject(ResourceUtils.java:60)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.findElement(JavaData.java:79)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.typeData(JavaData.java:67)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$16(STS4LanguageClientImpl.java:511)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)

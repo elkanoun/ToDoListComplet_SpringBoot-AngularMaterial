@@ -1,7 +1,7 @@
 # Shared Configuration between environments
-server:
-  servlet:
-    context-path: /api
+#server:
+  #servlet:
+    #context-path: /api
 
 app:
   jwt:

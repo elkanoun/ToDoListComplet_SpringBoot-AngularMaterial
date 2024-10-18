@@ -8,7 +8,6 @@ import java.util.Objects;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.util.StringUtils;
-import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RestController;
 
 import lombok.extern.slf4j.Slf4j;
@@ -22,7 +21,6 @@ import smartsofts.api.todolist.validators.ToDoValidator;
 import smartsofts.api.todolist.validators.ValidationMessage;
 
 @RestController
-@CrossOrigin("*")
 @Slf4j
 public class ToDoControllerImp implements IToDoController {
 
