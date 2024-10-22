@@ -3,19 +3,18 @@
     <button mat-icon-button (click)="myDrawer.toggle()">
       <mat-icon>menu</mat-icon>
     </button>
-    <span class="spacer"></span>
+    <span class="spacer">ToDoList</span>
 
-  <button mat-button>Home</button>
-  <button mat-button>Profile</button>
+  <button mat-button>Paramètres</button> 
   <button mat-button [matMenuTriggerFor]="importMenu">
       <mat-icon iconPositionEnd>keyboard_arrow_down</mat-icon>
       Import
   </button>
    <mat-menu #importMenu>
-      <button mat-menu-item>Load Students</button>
-      <button mat-menu-item>Load Payments</button>
+      <button mat-menu-item>Load ToDoList</button>
+      <button mat-menu-item>Load DATA</button>
    </mat-menu>
-  <button mat-button>Logout</button>
+  <button routerLink="/login" mat-button>Logout</button>
 </mat-toolbar>
 
 <!-- side menu-->
@@ -23,23 +22,41 @@
   <mat-drawer #myDrawer opened="true" position="start" mode="side">
       <mat-list>
           <mat-list-item>
-              <button mat-button>
+              <button routerLink="/maJournee" mat-button>
                   <mat-icon>dashboard</mat-icon>
-                  Dashboard
+                  Ma journée
               </button>
           </mat-list-item>
           <mat-list-item>
-              <button mat-button>
+              <button routerLink="/important"  mat-button>
                   <mat-icon>dashboard</mat-icon>
-                  Students
+                  Important
               </button>
           </mat-list-item>
           <mat-list-item>
-              <button mat-button>
+              <button routerLink="/planifie" mat-button>
                   <mat-icon>dashboard</mat-icon>
-                  Payments
+                  Planifié
               </button>
           </mat-list-item>
+          <mat-list-item>
+            <button routerLink="/affecteesMoi" mat-button>
+                <mat-icon>dashboard</mat-icon>
+                Affectées à moi
+            </button>
+        </mat-list-item>
+        <mat-list-item>
+            <button routerLink="/taches" mat-button>
+                <mat-icon>dashboard</mat-icon>
+                Tâches
+            </button>
+        </mat-list-item>
+        <mat-list-item>
+            <button routerLink="/portfolio" mat-button>
+                <mat-icon>dashboard</mat-icon>
+                Portfolio
+            </button>
+        </mat-list-item>
       </mat-list>
   </mat-drawer>
 

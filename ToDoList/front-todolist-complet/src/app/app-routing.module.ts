@@ -4,11 +4,9 @@ import { WebSiteComponent } from './web-site/web-site.component';
 
 const routes: Routes = [
   {
-    path:'', children:[
-      {path:'web-site', component: WebSiteComponent}
-    ]
-    
-  }
+    path:'', 
+    loadChildren: () => import('./web-site/web-site.module').then(m => m.WebSiteModule)
+ }  
 ];
 
 @NgModule({
