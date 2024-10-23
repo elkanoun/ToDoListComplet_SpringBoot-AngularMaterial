@@ -24,7 +24,7 @@ public interface IToDoController {
 	public ResponseEntity<ToDoDTO> searchToDo(@RequestParam("mc") String mc);
 	
 	@GetMapping("/todos")
-	public ResponseEntity<List<ToDoDTO>> findAll();
+	public List<ToDoDTO> findAll();
 	
 	@PutMapping("/todos/update")
 	public ResponseEntity<ToDoDTO> updateToDo(ToDoDTO toDoDTO);

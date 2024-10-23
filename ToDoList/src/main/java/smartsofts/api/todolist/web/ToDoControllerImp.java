@@ -8,6 +8,7 @@ import java.util.Objects;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.util.StringUtils;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RestController;
 
 import lombok.extern.slf4j.Slf4j;
@@ -22,6 +23,7 @@ import smartsofts.api.todolist.validators.ValidationMessage;
 
 @RestController
 @Slf4j
+@CrossOrigin("*")
 public class ToDoControllerImp implements IToDoController {
 
 	private IToDoMetier iMetier;
@@ -33,7 +35,8 @@ public class ToDoControllerImp implements IToDoController {
 		this.validator  = validator;
 		this.mapper = mapper;
 	}
-
+    
+	//method saveToDo
 	@Override
 	public ResponseEntity<ToDoDTO> saveToDo(ToDoDTO toDoDTO) {
 		List<ValidationMessage> errors = validator.isValid(toDoDTO);
@@ -51,7 +54,8 @@ public class ToDoControllerImp implements IToDoController {
 
 		return new ResponseEntity<ToDoDTO>(toDoDTO, HttpStatus.OK);
 	}
-
+    
+	//method searchToDo
 	@Override
 	public ResponseEntity<ToDoDTO> searchToDo(String mc) {
 		if(!StringUtils.hasLength(mc)) {
@@ -62,14 +66,16 @@ public class ToDoControllerImp implements IToDoController {
 
 		return new ResponseEntity<ToDoDTO>(toDoDTO, HttpStatus.FOUND);
 	}
-
+	
+    //method findAll
 	@Override
-	public ResponseEntity<List<ToDoDTO>> findAll() {
+	public List<ToDoDTO> findAll() {
 		List<ToDoDTO> listToDoDtos = mapper.mapToDTOs(iMetier.findAll());
 
-		return new ResponseEntity<List<ToDoDTO>>(listToDoDtos, HttpStatus.FOUND);
+		return listToDoDtos;
 	}
-
+    
+	//method updateToDo
 	@Override
 	public ResponseEntity<ToDoDTO> updateToDo(ToDoDTO toDoDTO) {
 		List<ValidationMessage> errors = validator.isValid(toDoDTO);
@@ -88,6 +94,7 @@ public class ToDoControllerImp implements IToDoController {
 		return new ResponseEntity<ToDoDTO>(toDoDTO, HttpStatus.OK);
 	}
 	
+	//method deleteToDo
 	@Override
 	public ResponseEntity<HttpStatus> deleteToDo(Long id) {
 		try {

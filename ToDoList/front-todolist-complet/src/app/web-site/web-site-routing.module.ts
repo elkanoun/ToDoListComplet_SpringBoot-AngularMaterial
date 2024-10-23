@@ -13,41 +13,25 @@ import { PortfolioComponent } from './dashboard/portfolio/portfolio.component';
 
 const routes: Routes = [
   {path:'', component:WebSiteComponent, children:[
-    { path:'', 
-      redirectTo:'login', 
-      pathMatch:'full' 
-    },
 
-    {
-      path:'maJournee',
-      component: MaJourneeComponent
-    },
-    {
-      path:'important',
-      component: ImportantComponent
-    },
-    {
-      path:'planifie',
-      component: PlanifieComponent
-    },
-    {
-      path:'affecteesMoi',
-      component: AffecteesMoiComponent
-    },
-    {
-      path:'taches',
-      component: TachesComponent
-    },
-    {
-      path:'portfolio',
-      component: PortfolioComponent
-    },
-      
+    { path:'', redirectTo:'/login', pathMatch: 'full' },
+    
+    { path:'login', component: LoginComponent },
 
-    { 
-      path:'login', 
-      component: LoginComponent 
-    }
+    { path:'maJournee', component: MaJourneeComponent },
+
+    { path:'important', component: ImportantComponent },
+
+    { path:'planifie', component: PlanifieComponent },
+
+    { path:'affecteesMoi', component: AffecteesMoiComponent },
+
+    { path:'taches', component: TachesComponent },
+
+    { path:'portfolio', component: PortfolioComponent },
+
+    { path:'**', redirectTo:'/login', pathMatch: 'full' },
+  
   ]
     
   }
