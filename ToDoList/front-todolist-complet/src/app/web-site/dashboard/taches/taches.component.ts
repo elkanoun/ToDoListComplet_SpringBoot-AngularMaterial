@@ -3,7 +3,8 @@ import { MatTableDataSource } from '@angular/material/table';
 import { HttpClient } from '@angular/common/http';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
-import { ToDo } from '../../../core/models/ToDo';
+import { Router } from '@angular/router';
+
 
 @Component({
   selector: 'app-taches',
@@ -20,7 +21,7 @@ export class TachesComponent implements OnInit {
   
   
 
-  constructor(private http:HttpClient){
+  constructor(private http:HttpClient, private router:Router){
 
   }
   
@@ -39,6 +40,11 @@ export class TachesComponent implements OnInit {
       }
   });
     
+  }
+
+  //method addTache
+  addTache(){
+    this.router.navigateByUrl("/newTache");
   }
   
   

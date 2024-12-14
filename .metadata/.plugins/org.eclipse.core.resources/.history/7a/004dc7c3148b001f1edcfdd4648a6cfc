@@ -1,5 +1,0 @@
-package smartsofts.api.todolist.mappers;
-
-public interface BaseMapperConfiguration {
-
-}

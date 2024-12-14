@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
     <typeInfo handle="=ToDoList/C:\/Users\/P52\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.3.4\/spring-data-jpa-3.3.4.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.3.4=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1728401421144"/>
-    <typeInfo handle="=ToDoList/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;smartsofts.api.todolist.web{IToDoController.java[IToDoController" modifiers="513" timestamp="1729178613870"/>
+    <typeInfo handle="=ToDoList/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;smartsofts.api.todolist.web{IToDoController.java[IToDoController" modifiers="513" timestamp="1729647263280"/>
     <typeInfo handle="=ToDoList/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;smartsofts.api.todolist.service{IToDoMetier.java[IToDoMetier" modifiers="513" timestamp="1729165499758"/>
     <typeInfo handle="=ToDoList/C:\/Program Files\/Java\/jdk-21\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/20\/docs\/api\/=/=/maven.pomderived=/true=/&lt;java.util.function(IntToDoubleFunction.class[IntToDoubleFunction" modifiers="1537" timestamp="1719157310459"/>
     <typeInfo handle="=ToDoList/C:\/Program Files\/Java\/jdk-21\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/20\/docs\/api\/=/=/maven.pomderived=/true=/&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1719157310459"/>

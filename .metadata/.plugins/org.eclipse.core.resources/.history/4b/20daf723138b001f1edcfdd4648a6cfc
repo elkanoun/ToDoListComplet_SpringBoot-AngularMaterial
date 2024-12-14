@@ -1,5 +1,0 @@
-package smartsofts.api.todolist.dtos;
-
-public class ToDoDTO {
-
-}

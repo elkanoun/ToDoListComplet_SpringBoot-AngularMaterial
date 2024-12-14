@@ -1,5 +1,0 @@
-package smartsofts.api.todolist.exceptions;
-
-public class ErrorDTO {
-
-}

@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { WebSiteComponent } from './web-site.component';
 //import { LayoutComponent } from './layout/layout.component';
-import { LoginComponent } from './login/login.component';
+import { LoginComponent } from '../shared/login/login.component';
 
 import { WebSiteRoutingModule } from './web-site-routing.module';
 
@@ -14,7 +14,7 @@ import { PlanifieComponent } from './dashboard/planifie/planifie.component';
 import { AffecteesMoiComponent } from './dashboard/affectees-moi/affectees-moi.component';
 import { TachesComponent } from './dashboard/taches/taches.component';
 import { PortfolioComponent } from './dashboard/portfolio/portfolio.component';
-import { LayoutComponent } from './layout/layout.component';
+import { LayoutComponent } from '../shared/layout/layout.component';
 
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatIconModule } from '@angular/material/icon';
@@ -29,6 +29,7 @@ import { MatCardModule } from '@angular/material/card';
 import { MatTableModule } from '@angular/material/table';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
+import { NewTacheComponent } from './dashboard/new-tache/new-tache.component';
 
 
 
@@ -47,7 +48,8 @@ import { MatSort } from '@angular/material/sort';
     PlanifieComponent,
     AffecteesMoiComponent,
     TachesComponent,
-    PortfolioComponent
+    PortfolioComponent,
+    NewTacheComponent
     
    
     

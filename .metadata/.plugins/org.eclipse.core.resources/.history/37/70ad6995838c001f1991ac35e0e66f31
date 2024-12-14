@@ -1,5 +1,0 @@
-package smartsofts.api.todolist;
-
-public enum ErrorCodes {
-
-}

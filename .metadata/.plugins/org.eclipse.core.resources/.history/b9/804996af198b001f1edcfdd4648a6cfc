@@ -1,5 +1,0 @@
-package smartsofts.api.todolist.validators;
-
-public class ToDoValidator {
-
-}
