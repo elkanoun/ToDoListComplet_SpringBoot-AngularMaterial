@@ -30,6 +30,10 @@ import { MatTableModule } from '@angular/material/table';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
 import { NewTacheComponent } from './dashboard/new-tache/new-tache.component';
+import { MatDatepickerModule } from '@angular/material/datepicker';
+import { MatNativeDateModule } from '@angular/material/core';
+import { MatRadioModule } from '@angular/material/radio';
+import { MatSelectModule } from '@angular/material/select';
 
 
 
@@ -71,7 +75,10 @@ import { NewTacheComponent } from './dashboard/new-tache/new-tache.component';
     MatCardModule,
     MatTableModule,
     MatPaginator,
-    MatSort
+    MatSort,
+    MatDatepickerModule, MatNativeDateModule,
+    MatRadioModule,
+    MatSelectModule
 
  
     

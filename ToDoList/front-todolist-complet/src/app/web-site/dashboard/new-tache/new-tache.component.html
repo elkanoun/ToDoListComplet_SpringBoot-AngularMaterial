@@ -1,1 +1,58 @@
-<p>new-tache works!</p>
+<div class="container">
+    <mat-card [formGroup]="toDoFormGroup" class="todo-form">
+        <mat-card-header>
+            <mat-card-title>New ToDo:</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+            <mat-form-field appearance="outline">
+                <mat-label>date Creation</mat-label>
+                <input matInput [matDatepicker]="picker" formControlName="dateCreation">
+                <mat-hint>DD/MM/YYYY</mat-hint>
+                <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+                <mat-datepicker #picker></mat-datepicker>
+            </mat-form-field>
+
+            <mat-form-field appearance="outline">
+                <mat-label>Nom ToDo</mat-label>
+                <input matInput formControlName="nomToDo">
+            </mat-form-field>
+
+            <mat-form-field appearance="outline">
+                <mat-label>Estimation</mat-label>
+                <input matInput formControlName="estimation">
+            </mat-form-field>
+
+            <mat-radio-group appearance="outline" formControlName="isDone">
+                <mat-radio-button value="1">True</mat-radio-button>
+                <mat-radio-button value="2">False</mat-radio-button>
+            </mat-radio-group>
+            
+            <mat-form-field appearance="outline">
+                <mat-label>date Realisation</mat-label>
+                <input matInput [matDatepicker]="picker" formControlName="dateRealisation">
+                <mat-hint>DD/MM/YYYY</mat-hint>
+                <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+                <mat-datepicker #picker></mat-datepicker>
+            </mat-form-field>
+
+            <mat-form-field appearance="outline">
+                <mat-label>Duree Realisation</mat-label>
+                <input matInput formControlName="dureeRealisation">
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Status Todo</mat-label>
+                <mat-select formControlName="statusTodo">
+                  @for (status of todoStatus; track status) {
+                    <mat-option [value]="status">{{status}}</mat-option>
+                  }
+                </mat-select>
+            </mat-form-field>
+
+        </mat-card-content>
+
+        <mat-card-actions>
+            <button (click)="saveToDo()" mat-raised-button color="primary">Save ToDo</button>
+        </mat-card-actions>
+    </mat-card>
+</div>
