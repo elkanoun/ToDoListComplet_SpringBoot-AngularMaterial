@@ -1,7 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { WebSiteComponent } from './web-site.component';
-//import { LayoutComponent } from './layout/layout.component';
 import { LoginComponent } from '../shared/login/login.component';
 
 import { WebSiteRoutingModule } from './web-site-routing.module';
@@ -34,10 +33,6 @@ import { MatDatepickerModule } from '@angular/material/datepicker';
 import { MatNativeDateModule } from '@angular/material/core';
 import { MatRadioModule } from '@angular/material/radio';
 import { MatSelectModule } from '@angular/material/select';
-
-
-
-
 
 
 
@@ -76,6 +71,7 @@ import { MatSelectModule } from '@angular/material/select';
     MatTableModule,
     MatPaginator,
     MatSort,
+
     MatDatepickerModule, MatNativeDateModule,
     MatRadioModule,
     MatSelectModule
@@ -86,6 +82,7 @@ import { MatSelectModule } from '@angular/material/select';
     
   ],
   providers: [
+    //provideAnimationsAsync()
   ]
 })
 export class WebSiteModule { }
