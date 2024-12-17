@@ -15,7 +15,7 @@ import { NewTacheComponent } from './dashboard/new-tache/new-tache.component';
 const routes: Routes = [
   {path:'', component:WebSiteComponent, children:[
 
-    { path:'', redirectTo:'/login', pathMatch: 'full' },
+    { path:'', redirectTo:'/taches', pathMatch: 'full' },
     
     { path:'login', component: LoginComponent },
 

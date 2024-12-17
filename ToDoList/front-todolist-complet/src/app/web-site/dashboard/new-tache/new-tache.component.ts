@@ -1,9 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup } from '@angular/forms';
 import { ToDosService } from '../../../core/services/to-dos.service';
-
-import { StatusToDo } from '../../enumerations/status-todo.enum';
 import { NewToDo } from '../../models/NewToDo';
+import { StatusToDo } from '../../enumerations/status-todo.enum';
 
 @Component({
   selector: 'app-new-tache',
@@ -20,42 +19,49 @@ export class NewTacheComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    /*
     for(let element in StatusToDo){
       let value = StatusToDo[element];
+      if(typeof value === 'string'){
         this.todoStatus.push(value);
+      }
+        
     }
-    */
 
     this.toDoFormGroup = this.fb.group({
       dateCreation: this.fb.control(''),
       nomToDo: this.fb.control(''),
       estimation: this.fb.control(''),
-      isDone: this.fb.control('True'),
+      isDone: this.fb.control(''),
       dateRealisation: this.fb.control(''),
       dureeRealisation: this.fb.control(''),
-      statusTodo: this.fb.control(StatusToDo.Done),
-      isImportant: this.fb.control('False'),
-      nomCompletUser: this.fb.control('Elkanoun Mohamed')
+      statusTodo: this.fb.control(''),
+      isImportant: this.fb.control(''),
+      nomCompletUser: this.fb.control('')
     })
+
   }
 
   //method addTache
   saveToDo(){
     console.log(this.toDoFormGroup.value);
+
+    let dateCreation = new Date(this.toDoFormGroup.value.dateCreation);
+    let formattedDateCreation = dateCreation.getDate()+"/"+(dateCreation.getMonth()+1)+"/"+dateCreation.getFullYear();
+
+    let dateRealisation = new Date(this.toDoFormGroup.value.dateRealisation);
+    let formattedDateRealisation = dateRealisation.getDate()+"/"+(dateRealisation.getMonth()+1)+"/"+dateRealisation.getFullYear();
     
     this.newToDo = ({
-      'dateCreation': new Date(this.toDoFormGroup.value.dateCreation),
+      'dateCreation': new Date(formattedDateCreation),
       'nomToDo': this.toDoFormGroup.value.nomToDo,
       'estimation': this.toDoFormGroup.value.estimation,
       'isDone': this.toDoFormGroup.value.isDone,
-      'dateRealisation': new Date(this.toDoFormGroup.value.dateRealisation),
+      'dateRealisation': new Date(formattedDateRealisation),
       'dureeRealisation': this.toDoFormGroup.value.dureeRealisation,
       'statusTodo': this.toDoFormGroup.value.statusTodo,
       'isImportant': this.toDoFormGroup.value.isImportant,
       'nomCompletUser': this.toDoFormGroup.value.nomCompletUser
     })
-    
 
     this.toDoService.saveToDo(this.newToDo).subscribe({
       next : data => {
@@ -65,7 +71,10 @@ export class NewTacheComponent implements OnInit {
         console.log(err);
       }
     })
+      
+
   }
+    
 
 
 

@@ -1,39 +1,82 @@
 <div class="container">
-    <form [formGroup]="toDoFormGroup">
-        <h2>New ToDo</h2>
-        <p>
-            <label for="dateCreation">Date Creation:</label>
-            <input type="text" id="dateCreation" formControlName="dateCreation"/>
-        </p>
+    <mat-card [formGroup]="toDoFormGroup" class="todo-form">
+        <mat-card-header>
+            <mat-card-title>New Tâche</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
 
-        <p>
-            <label for="nomToDo">nom ToDo:</label>
-            <input type="text" id="nomToDo" formControlName="nomToDo"/>
-        </p>
+            <mat-form-field appearance="outline">
+                <mat-label>Date Creation</mat-label>
+                <input matInput [matDatepicker]="picker" formControlName="dateCreation">
+                <mat-hint>DD/MM/YYYY</mat-hint>
+                <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+                <mat-datepicker #picker></mat-datepicker>
+            </mat-form-field>
 
-        <p>
-            <label for="estimation">estimation:</label>
-            <input type="text" id="estimation" formControlName="estimation"/>
-        </p>
+            <mat-form-field appearance="outline">
+                <mat-label>Nom tâche</mat-label>
+                <input matInput formControlName="nomToDo">
+            </mat-form-field>
 
-        <p>
-            <label for="dateRealisation">date Realisation:</label>
-            <input type="text" id="dateRealisation" formControlName="dateRealisation"/>
-        </p>
+            <mat-form-field appearance="outline">
+                <mat-label>Estimation</mat-label>
+                <input matInput formControlName="estimation">
+            </mat-form-field>
 
-        <p>
-            <label for="dureeRealisation">duree Realisation:</label>
-            <input type="text" id="dureeRealisation" formControlName="dureeRealisation"/>
-        </p>
+            <div>
+                <mat-radio-group  formControlName="isDone" appearance="outline">
+                    <mat-label>is Done</mat-label>
+                    <mat-radio-button value="True">True</mat-radio-button>
+                    <mat-radio-button value="False">False</mat-radio-button>
+                </mat-radio-group>
+            </div>
 
-        <p>
-            <label for="nomCompletUser">nomComplet User:</label>
-            <input type="text" id="nomCompletUser" formControlName="nomCompletUser"/>
-        </p>
-        <p><button (click)="saveToDo()">Save</button></p>
+            <mat-form-field appearance="outline">
+                <mat-label>Date Realisation</mat-label>
+                <input matInput [matDatepicker]="picker2" formControlName="dateRealisation">
+                <mat-hint>DD/MM/YYYY</mat-hint>
+                <mat-datepicker-toggle matIconSuffix [for]="picker2"></mat-datepicker-toggle>
+                <mat-datepicker #picker2></mat-datepicker>
+            </mat-form-field>
 
-    </form>      
+            <mat-form-field appearance="outline">
+                <mat-label>Duree Realisation</mat-label>
+                <input matInput formControlName="dureeRealisation">
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Status Todo</mat-label>
+                <mat-select formControlName="statusTodo">
+                  @for (s of todoStatus; track s) {
+                    <mat-option [value]="s">{{s}}</mat-option>
+                  }
+                </mat-select>
+            </mat-form-field>
+
+            <div>
+                <mat-radio-group  formControlName="isImportant" appearance="outline">
+                    <mat-label>is Important</mat-label>
+                    <mat-radio-button value="True">True</mat-radio-button>
+                    <mat-radio-button value="False">False</mat-radio-button>
+                </mat-radio-group>
+            </div>
+
+            <mat-form-field appearance="outline">
+                <mat-label>NomComplet user</mat-label>
+                <input matInput formControlName="nomCompletUser">
+            </mat-form-field>
+
+        </mat-card-content>
+
+        <mat-card-actions>
+            <button (click)="saveToDo()" mat-raised-button color="primary">Save tâche</button>
+        </mat-card-actions>
+    </mat-card> 
 </div>
+
+
+
+
 
 
 <!--
