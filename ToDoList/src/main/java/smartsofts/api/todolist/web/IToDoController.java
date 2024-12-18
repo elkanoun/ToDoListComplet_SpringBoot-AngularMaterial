@@ -17,7 +17,7 @@ import smartsofts.api.todolist.dtos.ToDoDTO;
 
 public interface IToDoController {
 	
-	@PostMapping("/todos/save")
+	@PostMapping(path = "/todos/save")
 	public ResponseEntity<ToDoDTO> saveToDo(@RequestBody ToDoDTO toDoDTO);
 	
 	@GetMapping("/todos/todo")

@@ -2,13 +2,13 @@ import { StatusToDo } from "../enumerations/status-todo.enum";
 
 export interface ToDo{
     id:number;
-    dateCreation:Date;
+    dateCreation:string;
     nomToDo:string;
     estimation:string;
     isDone:boolean;
-    dateRealisation:Date;
+    dateRealisation:string;
     dureeRealisation:string;
-    statusTodo:StatusToDo;
+    statusTodo:string;
     isImportant:boolean;
     nomCompletUser:string;
 }

@@ -12,7 +12,6 @@ import { StatusToDo } from '../../enumerations/status-todo.enum';
 export class NewTacheComponent implements OnInit {
   toDoFormGroup!: FormGroup;
   todoStatus : string[] = [];
-  newToDo! : NewToDo;
 
   constructor(private fb: FormBuilder, 
               private toDoService: ToDosService){
@@ -38,7 +37,6 @@ export class NewTacheComponent implements OnInit {
       isImportant: this.fb.control(''),
       nomCompletUser: this.fb.control('')
     })
-
   }
 
   //method addTache
@@ -46,28 +44,31 @@ export class NewTacheComponent implements OnInit {
     console.log(this.toDoFormGroup.value);
 
     let dateCreation = new Date(this.toDoFormGroup.value.dateCreation);
-    let formattedDateCreation = dateCreation.getDate()+"/"+(dateCreation.getMonth()+1)+"/"+dateCreation.getFullYear();
+    //let formattedDateCreation = dateCreation.getFullYear()+"/"+(dateCreation.getMonth()+1)+"/"+dateCreation.getDate();
+    
 
     let dateRealisation = new Date(this.toDoFormGroup.value.dateRealisation);
-    let formattedDateRealisation = dateRealisation.getDate()+"/"+(dateRealisation.getMonth()+1)+"/"+dateRealisation.getFullYear();
+    //let formattedDateRealisation = dateCreation.getFullYear()+"/"+(dateCreation.getMonth()+1)+"/"+dateCreation.getDate();
     
-    this.newToDo = ({
-      'dateCreation': new Date(formattedDateCreation),
+    let formData : NewToDo = ({
+      'dateCreation': dateCreation,
       'nomToDo': this.toDoFormGroup.value.nomToDo,
       'estimation': this.toDoFormGroup.value.estimation,
       'isDone': this.toDoFormGroup.value.isDone,
-      'dateRealisation': new Date(formattedDateRealisation),
+      'dateRealisation': dateRealisation,
       'dureeRealisation': this.toDoFormGroup.value.dureeRealisation,
       'statusTodo': this.toDoFormGroup.value.statusTodo,
       'isImportant': this.toDoFormGroup.value.isImportant,
       'nomCompletUser': this.toDoFormGroup.value.nomCompletUser
     })
+    
 
-    this.toDoService.saveToDo(this.newToDo).subscribe({
+    this.toDoService.saveToDo(formData).subscribe({
       next : data => {
         console.log("toDo ajouté avec succés!")
       },
       error : err => {
+        console.log(formData);
         console.log(err);
       }
     })
