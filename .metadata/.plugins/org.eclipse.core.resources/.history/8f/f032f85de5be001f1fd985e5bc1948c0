@@ -1,0 +1,5 @@
+package smartsofts.api.todolist.app.security;
+
+public interface AccountService {
+
+}
