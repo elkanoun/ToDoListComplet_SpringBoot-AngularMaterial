@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { WebSiteComponent } from './web-site.component';
-import { LoginComponent } from '../shared/login/login.component';
+import { LoginComponent } from '../auth/login/login.component';
 import { MaJourneeComponent } from './dashboard/ma-journee/ma-journee.component';
 import { ImportantComponent } from './dashboard/important/important.component';
 import { PlanifieComponent } from './dashboard/planifie/planifie.component';
@@ -12,10 +12,11 @@ import { NewTacheComponent } from './dashboard/new-tache/new-tache.component';
 
 
 
+
 const routes: Routes = [
   {path:'', component:WebSiteComponent, children:[
 
-    { path:'', redirectTo:'/taches', pathMatch: 'full' },
+    { path:'', redirectTo:'/register', pathMatch: 'full' },
     
     { path:'login', component: LoginComponent },
 

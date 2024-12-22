@@ -1426,3 +1426,12 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mapstruct
 2024-12-21 01:48:48,327 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
 2024-12-21 01:48:48,340 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-12-21 01:48:48,342 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-12-21 01:54:57,847 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-12-21 01:54:57,858 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-21 01:54:57,860 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-12-21 01:55:20,929 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-12-21 01:55:20,939 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-21 01:55:20,941 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources
+2024-12-21 01:55:27,161 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2024-12-21 01:55:27,172 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-21 01:55:27,174 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\MontéeCompG_2024\ProjetsG_FullG\15-10-2024_Projet ToDoList petit!\BackFront_ToDoListPetit\ToDoList\src\test\resources

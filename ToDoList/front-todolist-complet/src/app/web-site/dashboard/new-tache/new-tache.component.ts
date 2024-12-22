@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup } from '@angular/forms';
-import { ToDosService } from '../../../core/services/to-dos.service';
+import { ToDosService } from '../../../auth/services/to-dos.service';
 import { NewToDo } from '../../models/NewToDo';
 import { StatusToDo } from '../../enumerations/status-todo.enum';
 
