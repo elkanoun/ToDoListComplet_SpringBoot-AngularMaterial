@@ -16,6 +16,8 @@ import { PortfolioComponent } from './dashboard/portfolio/portfolio.component';
 import { LayoutComponent } from '../shared/layout/layout.component';
 import { NewTacheComponent } from './dashboard/new-tache/new-tache.component';
 import { MaterialModule } from '../material/material.module';
+import { RegisterComponent } from '../auth/register/register.component';
+import { LoginComponent } from '../auth/login/login.component';
 
 
 
@@ -34,6 +36,9 @@ import { MaterialModule } from '../material/material.module';
     TachesComponent,
     PortfolioComponent,
     NewTacheComponent,
+
+    RegisterComponent,
+    LoginComponent
 
     
     

@@ -1,5 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup } from '@angular/forms';
+import { AuthService } from '../services/auth.service';
+import { UserForm } from '../models/UserForm';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 
 @Component({
   selector: 'app-register',
@@ -9,7 +12,9 @@ import { FormBuilder, FormGroup } from '@angular/forms';
 export class RegisterComponent implements OnInit {
   userFormGroup!: FormGroup;
 
-  constructor(private fb: FormBuilder){
+  constructor(private fb: FormBuilder,
+              private authService: AuthService,
+              private http: HttpClient){
   }
 
   ngOnInit(): void {
@@ -22,7 +27,30 @@ export class RegisterComponent implements OnInit {
 
   //method register
   register(){
+    let formData: UserForm = {
+      'username': this.userFormGroup.value.username,
+      'password': this.userFormGroup.value.password,
+      'confirmedPassword': this.userFormGroup.value.confirmedPassword
+    }
 
+    //Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers,authorization
+    const headers = new HttpHeaders({
+      'Origin': "http://localhost:4200/",
+      'Content-Type': "application/json"
+    });
+    
+      
+    
+
+    this.authService.registerUser(formData, { headers }).subscribe({
+      next: data => {
+        alert('user ajouté avec succés!');
+      },
+      error: err => {
+        console.log(formData);
+        console.log(err);
+      }
+    })
   }
 
 }

@@ -9,6 +9,7 @@ import { AffecteesMoiComponent } from './dashboard/affectees-moi/affectees-moi.c
 import { TachesComponent } from './dashboard/taches/taches.component';
 import { PortfolioComponent } from './dashboard/portfolio/portfolio.component';
 import { NewTacheComponent } from './dashboard/new-tache/new-tache.component';
+import { RegisterComponent } from '../auth/register/register.component';
 
 
 
@@ -18,7 +19,7 @@ const routes: Routes = [
 
     { path:'', redirectTo:'/register', pathMatch: 'full' },
     
-    { path:'login', component: LoginComponent },
+    { path:'register', component: RegisterComponent },
 
     { path:'maJournee', component: MaJourneeComponent },
 
@@ -34,7 +35,7 @@ const routes: Routes = [
 
     { path:'newTache', component: NewTacheComponent},
 
-    { path:'**', redirectTo:'/login', pathMatch: 'full' },
+    { path:'**', redirectTo:'/register', pathMatch: 'full' },
   
   ]
     
